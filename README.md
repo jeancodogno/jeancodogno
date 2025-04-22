@@ -10,6 +10,10 @@ I started as a developer who loved writing clean code and refactoring everything
 
 I believe in good architecture, boring tech done well, and solving real problems with elegant solutions.
 
+## 📊 GitHub Stats
+
+![jeancodogno's GitHub stats](https://github-readme-stats-navy-three.vercel.app/api?username=jeancodogno&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
 ## 🧰 Techs
 
 <div align="left">
@@ -32,4 +36,3 @@ I believe in good architecture, boring tech done well, and solving real problems
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
 
-![jeancodogno's GitHub stats](https://github-readme-stats-navy-three.vercel.app/api?username=jeancodogno&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
